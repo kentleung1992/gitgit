@@ -5,3 +5,4 @@ import sklearn
 print("hello")
 print("两次add")
 for i in range(10):
+    print(i)

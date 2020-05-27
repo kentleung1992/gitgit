@@ -4,3 +4,4 @@ import matlibpyplot.pyplot as plt
 import sklearn
 print("hello")
 print("两次add")
+for i in range(10):

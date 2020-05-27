@@ -1,6 +1,1 @@
-<<<<<<< Updated upstream
-hello
-bug2
-=======
-hello,world
->>>>>>> Stashed changes
+fuck
